@@ -23,6 +23,6 @@
 `python google.py`
 
 
-_programmer:_ [Mohammad Lakzaee](t.me/PrgrmrDv)
+_programmer:_ [Mohammad Lakzaee](https://t.me/PrgrmrDv)
 </br>
 _version:_ **0.1**
