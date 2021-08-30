@@ -33,3 +33,8 @@ for item in items:
 
 for i in range(0, len(links)):
     print(f"Url : {links[i]}\nTitle : {titles[i]}\n-----------------------------\n")
+
+
+
+
+
