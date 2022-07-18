@@ -1,4 +1,4 @@
-# google-search
+# google-sea
 **Search To Google with Python**
 
 
